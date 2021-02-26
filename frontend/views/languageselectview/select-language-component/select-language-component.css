@@ -1,0 +1,18 @@
+
+
+[theme="my-styled-select"] vaadin-item {
+    background-color: yellow;
+}
+
+[theme="my-styled-select"] vaadin-item[selected] {
+    background-color: yellow;
+}
+
+:host([theme="my-styled-select"]) {
+    --lumo-contrast-10pct: yellow;
+    --lumo-body-text-color: black;
+}
+
+.style-via-class {
+    background-color: yellow;
+}
