@@ -16,7 +16,7 @@ import com.vaadin.flow.theme.Theme;
  *
  */
 @SpringBootApplication
-@Theme(value = "fusionstylingexample")
+@Theme(value = "fusion")
 @PWA(name = "Fusion Styling Example", shortName = "Fusion Styling Example", offlineResources = {"images/logo.png"})
 public class Application extends SpringBootServletInitializer implements AppShellConfigurator {
 
