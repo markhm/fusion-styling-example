@@ -1,0 +1,3 @@
+:host [part~="overlay"] {
+    background: powderblue;
+}
