@@ -12,7 +12,7 @@ const languages : Array<{label: string; value: string}> = [
 	{ value: 'nl', label: 'Nederlands' },
 	{ value: 'en', label: 'English' },
 	{ value: 'da', label: 'Dansk' },
-	{ value: 'fi', label: 'Suomen' },
+	{ value: 'fi', label: 'suomi' },
 ];
 
 class SelectLanguageComponent extends LitElement {
