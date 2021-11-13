@@ -1,0 +1,9 @@
+:host [theme="machine"] [part~="input-field"] {
+	background: powderblue;
+}
+
+
+/*:host [part~="input-field"] {*/
+/*	background: powderblue;*/
+/*}*/
+

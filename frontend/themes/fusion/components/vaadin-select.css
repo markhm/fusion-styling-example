@@ -1,0 +1,3 @@
+:host [part~="vaadin-select"] {
+	background-color: powderblue;
+}

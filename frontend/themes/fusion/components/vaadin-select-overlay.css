@@ -1,3 +1,7 @@
-:host [part~="overlay"] {
+:host [theme="machine"] [part~="overlay"] {
     background: powderblue;
 }
+
+/*:host [part~="overlay"] {*/
+/*    background: powderblue;*/
+/*}*/
